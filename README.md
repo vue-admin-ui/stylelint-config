@@ -1,7 +1,7 @@
 # stylelint-config
 
 ```
-npm i @vue-admin-ui/stylelint-config
+npm i @vue-admin-ui/stylelint-config -D
 ```
 
 ```js
