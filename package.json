@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config",
+  "name": "@vue-admin-ui/stylelint-config",
   "version": "1.0.0",
   "main": ".stylelintrc.js"
 }
