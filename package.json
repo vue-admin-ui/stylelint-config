@@ -1,5 +1,8 @@
 {
   "name": "@vue-admin-ui/stylelint-config",
-  "version": "1.0.0",
-  "main": ".stylelintrc.js"
+  "version": "1.0.1",
+  "main": ".stylelintrc.js",
+  "dependencies": {
+    "stylelint-config-standard": "^22.0.0"
+  }
 }
